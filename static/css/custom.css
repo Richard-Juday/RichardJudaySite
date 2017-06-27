@@ -1,0 +1,9 @@
+#about #about-card {
+    max-width: 750px;
+}
+
+.left {
+    text-align: left;
+    padding-left: 2em;
+    padding-right: 2em;
+}
