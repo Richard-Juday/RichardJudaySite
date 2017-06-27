@@ -7,7 +7,7 @@ categories: ["longmont"]
 ---
 
 <h3 style="margin-bottom: 1em">VOTE FOR A BRIGHT LONGMONT FUTURE</h3>
-<h4 style="margin-bottom: 1em"><img src="http://web.archive.org/web/20080516154915im_/http://www.richard-juday.net/wp-content/uploads/2008/01/richard_juday.jpg" alt="Richard Juday - At Large Longmont Council Candidate" style="border: 1px solid #000000; margin: 0pt 0pt 2px 10px; float: right">RICHARD JUDAY…</h4>
+<h4 style="margin-bottom: 1em"><img src="/images/richard_juday.jpg" alt="Richard Juday - At Large Longmont Council Candidate" style="border: 1px solid #000000; margin: 0pt 0pt 2px 10px; float: right">RICHARD JUDAY…</h4>
 <ul>
 <li>Will dedicate himself to bringing primary jobs, permanent jobs, good paying jobs with excellent benefits to Longmont</li>
 <li>Will emphasize sensible, sustainable growth</li>
