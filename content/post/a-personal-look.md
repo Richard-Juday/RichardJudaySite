@@ -1,12 +1,14 @@
 ---
-title: "A Personal Look"
-date: 2008-07-24T14:04:12-06:00
-draft: false
-categories: ["about"]
-tags: ["cv"]
-aliases: ["/A personal look.htm"]
----
+title: A Personal Look
+date: '2008-07-24T14:04:12-06:00'
+categories:
+- about
+tags:
+- cv
+aliases:
+- "/A personal look.htm"
 
+---
 Richard has three college-educated children who have presented him and his wife Darcy with two grandsons, ages 5 and 2 years, two more on the way.
 
 Richard married Darcy Temple in November 2000, after having been good friends for over 25 years. Darcy is retired from energy exploration and is currently completing her PhD dissertation at CSU on water use, specialized to irrigation in high-altitude hay meadows

@@ -1,9 +1,9 @@
 ---
-title: "Patents And Publications"
-date: 2017-06-27T13:45:16-06:00
-draft: false
----
+title: Patents And Publications
+date: '2017-06-27T13:45:16-06:00'
+type: page
 
+---
 ## Patents and Technical Publications
 
 **Bibliography** of Johnson Space Center’s Hybrid Vision Laboratory.

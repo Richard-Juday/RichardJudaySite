@@ -1,10 +1,11 @@
 ---
-title: "Recent Accomplishments"
-date: 2017-06-27T13:17:14-06:00
-tags: ["cv"]
-draft: false
----
+title: Recent Accomplishments
+date: '2017-06-27T13:17:14-06:00'
+tags:
+- cv
+type: page
 
+---
 ### Recent Accomplishments:
 
 * Member of the 2006-2008 Economic Vitality Task Force for Longmont. Authored, along with Tom McCoy, Sarah Levison and Rich Hansen, the report’s Exhibit 1 which emphasizes that growth should be governed and managed within the margins between current consumption and eventual capacity.

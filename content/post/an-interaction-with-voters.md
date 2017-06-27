@@ -1,11 +1,12 @@
 ---
-title: "An Interaction With Voters"
-date: 2008-01-19T15:12:45-06:00
-draft: false
-tags: ["city-council"]
-categories: ["longmont"]
----
+title: An Interaction With Voters
+date: '2008-01-19T15:12:45-06:00'
+tags:
+- city-council
+categories:
+- longmont
 
+---
 <p class="MsoNormal"><font face="Arial" color="navy" size="4"><span style="font-size: 14pt; color: navy; font-family: Arial">Dear  Richard,<o:p></o:p></span></font></p>
 <p class="MsoNormal"><font face="Arial" color="navy" size="4"><span style="font-size: 14pt; color: navy; font-family: Arial">Thank you so much for  your prompt, thoughtful response to my questions. I have forwarded them to 15  fellow-citizens.<o:p></o:p></span></font></p>
 <p class="MsoNormal"><font face="Arial" color="navy" size="4"><span style="font-size: 14pt; color: navy; font-family: Arial">Regards,<o:p></o:p></span></font></p>

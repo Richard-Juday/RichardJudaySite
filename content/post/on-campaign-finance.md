@@ -1,14 +1,14 @@
 ---
-title: "On Campaign Finance"
-date: 2008-07-24T14:41:38-06:00
-draft: false
-tags: ["city-council"]
-categories: ["longmont"]
-aliases: [
-    "/On campaign finance.htm"
-]
----
+title: On Campaign Finance
+date: '2008-07-24T14:41:38-06:00'
+tags:
+- city-council
+categories:
+- longmont
+aliases:
+- "/On campaign finance.htm"
 
+---
 <p>I think that voters in Longmont elections should be able to see all contributions made to every candidate <em>before</em>
  casting their votes.   Under the Election Code, it is permissible to
 accept donations even after the election, with a final accounting due

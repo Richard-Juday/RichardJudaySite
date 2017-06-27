@@ -1,10 +1,11 @@
 ---
-title: "Early Accomplishments"
-date: 2017-06-27T13:17:14-06:00
-draft: false
-tags: ["cv"]
----
+title: Early Accomplishments
+date: '2017-06-27T13:17:14-06:00'
+tags:
+- cv
+type: page
 
+---
 ### Before coming to Longmont:
 
   * Directed several million dollars of NASA funding at DisplayTech (a Longmont company); Boulder Nonlinear Systems in Lafayette; and Vexcel in Boulder.

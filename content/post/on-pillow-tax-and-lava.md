@@ -1,15 +1,15 @@
 ---
-title: "On “Pillow Tax” and LAVA"
-date: 2008-07-24T14:38:04-06:00
-draft: false
-tags: ["politics"]
-categories: ["longmont"]
-aliases: [
-	"/On “Pillow Tax” and LAVA.htm"
-]
----
+title: On “Pillow Tax” and LAVA
+date: '2008-07-24T14:38:04-06:00'
+tags:
+- politics
+categories:
+- longmont
+aliases:
+- "/On “Pillow Tax” and LAVA.htm"
 
-	<div class="post"><p><font face="Times New Roman" size="3"><span style="font-size: 12pt">In November the voters approved a lodging tax intended to support and develop tourism for Longmont, and there has arisen a controversy about the exact manner in which it is to be spent.<span>  </span>There
+---
+<div class="post"><p><font face="Times New Roman" size="3"><span style="font-size: 12pt">In November the voters approved a lodging tax intended to support and develop tourism for Longmont, and there has arisen a controversy about the exact manner in which it is to be spent.<span>  </span>There
  have been some speculations about exact items on which the funds might
 be spent, and there is an anxiety on the part of LAVA that their
 research and their work to inform the voters might have a benefit

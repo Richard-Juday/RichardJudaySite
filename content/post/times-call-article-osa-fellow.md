@@ -1,15 +1,16 @@
 ---
-title: "Times Call Article OSA Fellow"
-date: 2007-02-03T13:57:27-06:00
-draft: false
-aliases: [
-    "/Times_Call_article_OSA_Fellow.htm",
-    "/Times_Call_article_OSA_Fellow.html"
-]
-categories: ["articles"]
-tags: ["times-call", "longmont"]
----
+title: Times Call Article OSA Fellow
+date: '2007-02-03T13:57:27-06:00'
+aliases:
+- "/Times_Call_article_OSA_Fellow.htm"
+- "/Times_Call_article_OSA_Fellow.html"
+categories:
+- articles
+tags:
+- times-call
+- longmont
 
+---
 Richard Juday has been awake since 2 a.m. preparing a packet  about his life. At 8 a.m., he slaps it in front of me - a thick, stapled stack  of papers and a digital version on CD - grabs a cup of coffee and waits for me  to begin. At that moment, I am certain about one thing: Juday, a “retired” NASA scientist, is thorough, organized and very smart.He  anticipated my questions; included 11 pages of his patents and titles of his  published scientific works; added other fun, quirky bits about himself (he once  worked night shift in a pickle factory); and tried to explain his complicated  research, which led to his most recent honor.Just before the new year,  Juday, 65, was elevated to the rank of “fellow” of the Optical Society of  America for his accomplishments in optical science. He’s one of 58 scientists - out of 15,000 OSA members worldwide - who will be recognized by the association  this year.</p>
 <p>“It’s a recognition of achievement by my peers, and that’s a  nice thing,” Juday said.</p>
 <p>His award was for “technical  contributions in optical correlation pattern recognition.”</p>

@@ -1,14 +1,14 @@
 ---
-title: "A Scientist With Creative Ideas"
-date: 2008-07-24T14:14:18-06:00
-draft: false
-tags: ["city-council"]
-categories: ["longmont"]
-aliases: [
-    "/A scientist with creative ideas.htm"
-]
----
+title: A Scientist With Creative Ideas
+date: '2008-07-24T14:14:18-06:00'
+tags:
+- city-council
+categories:
+- longmont
+aliases:
+- "/A scientist with creative ideas.htm"
 
+---
 Council should create an <em>ad hoc</em>  advisory committee of volunteer technical experts who live and work in
 Longmont, to advise on issues beyond the expertise of city staff or
 council. Members would be tasked to provide recommendations that don’t

@@ -1,10 +1,9 @@
 ---
-title: "Response To Innacurate Attack Pieces"
-date: 2008-07-24T14:45:38-06:00
-draft: false
-aliases: [
-    "Response to inaccurate attack pieces.htm"
-]
+title: Response To Innacurate Attack Pieces
+date: '2008-07-24T14:45:38-06:00'
+aliases:
+- Response to inaccurate attack pieces.htm
+
 ---
 <p>I have run a campaign that is honest and
 above-board, positive, filled with real content, and gentlemanly toward

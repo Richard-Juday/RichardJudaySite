@@ -1,11 +1,12 @@
 ---
-title: "Vote Juday - Vote Jobs"
-date: 2008-01-24T15:07:15-06:00
-draft: false
-tags: ["city-council"]
-categories: ["longmont"]
----
+title: Vote Juday - Vote Jobs
+date: '2008-01-24T15:07:15-06:00'
+tags:
+- city-council
+categories:
+- longmont
 
+---
 <h3 style="margin-bottom: 1em">VOTE FOR A BRIGHT LONGMONT FUTURE</h3>
 <h4 style="margin-bottom: 1em"><img src="/images/richard_juday.jpg" alt="Richard Juday - At Large Longmont Council Candidate" style="border: 1px solid #000000; margin: 0pt 0pt 2px 10px; float: right">RICHARD JUDAY…</h4>
 <ul>

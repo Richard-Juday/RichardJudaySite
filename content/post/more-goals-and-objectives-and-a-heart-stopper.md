@@ -1,14 +1,15 @@
 ---
-title: "More goals and objectives -- and a real heart-stopper!"
-date: 2008-07-24T14:21:32-06:00
-draft: false
-tags: ["city-council", "recipe"]
-category: ["longmont"]
-aliases: [
-    "More goals and objectives — and a real heart-stopper!.htm"
-]
----
+title: More goals and objectives -- and a real heart-stopper!
+date: '2008-07-24T14:21:32-06:00'
+tags:
+- city-council
+- recipe
+category:
+- longmont
+aliases:
+- More goals and objectives — and a real heart-stopper!.htm
 
+---
 Richard Juday believes that…
 <ul>
 <li> Council should manage the City’s budget so that income from growth

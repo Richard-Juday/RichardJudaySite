@@ -1,14 +1,14 @@
 ---
-title: "Campaign Statement (Times-Call, 1-20-2008)"
-date: 2008-01-20T14:19:22-06:00
-draft: false
-tags: ["city-council"]
-categories: ["longmont"]
-aliases: [
-    "Campaign statement (Times-Call, 1-20-2008).htm"
-]
----
+title: Campaign Statement (Times-Call, 1-20-2008)
+date: '2008-01-20T14:19:22-06:00'
+tags:
+- city-council
+categories:
+- longmont
+aliases:
+- Campaign statement (Times-Call, 1-20-2008).htm
 
+---
 <p>It is one thing to name lofty visions and desirable goals.  It is quite another thing to be able to attain them.</p>
 <p>My background and accomplishments demonstrate that I set reasonable
 goals and then act, not just dream and talk.  High-minded principles and

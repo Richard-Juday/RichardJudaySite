@@ -1,12 +1,13 @@
 ---
-title: "Longmont Supports Richard Juday"
-date: 2008-07-24T14:49:10-06:00
-draft: false
-aliases: [
-    "/Supporters.html"
-]
-tags: ["city-council"]
-categories: ["longmont"]
+title: Longmont Supports Richard Juday
+date: '2008-07-24T14:49:10-06:00'
+aliases:
+- "/Supporters.html"
+tags:
+- city-council
+categories:
+- longmont
+
 ---
 <h3>Juday shares my vision</h3>
 <p>Richard Juday’s background as an engineer with NASA, as
