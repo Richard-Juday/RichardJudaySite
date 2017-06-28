@@ -1,10 +1,13 @@
 ---
-title: Vote Juday - Vote Jobs
+title: Old campaign page
 date: '2008-01-24T15:07:15-06:00'
 tags:
 - city-council
 categories:
 - longmont
+aliases: []
+category: []
+keywords: []
 
 ---
 <h3 style="margin-bottom: 1em">VOTE FOR A BRIGHT LONGMONT FUTURE</h3>
