@@ -11,6 +11,7 @@ type = ""
 +++
 
 
-This is the summary<!--more-->
+This is the ***summary***
+<!--more-->
 
 type type type
