@@ -1,4 +1,4 @@
-baseURL = "https://richard-juday.net/"
+baseURL = "http://richard-juday.net/"
 canonifyurls = true
 categoryPagination = 10
 defaultContentLanguage = "en-us"
