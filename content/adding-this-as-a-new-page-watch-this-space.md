@@ -2,7 +2,6 @@
 categories = ["category", "subcategory"]
 comments = false
 date = "2017-06-27T18:25:28+00:00"
-draft = true
 keywords = ["tech"]
 showDate = false
 showPagination = false
