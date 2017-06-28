@@ -3,6 +3,7 @@ title: Response To Innacurate Attack Pieces
 date: '2008-07-24T14:45:38-06:00'
 aliases:
 - Response to inaccurate attack pieces.htm
+draft: true
 
 ---
 <p>I have run a campaign that is honest and
