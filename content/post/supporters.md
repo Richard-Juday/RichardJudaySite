@@ -7,6 +7,7 @@ tags:
 - city-council
 categories:
 - longmont
+draft: true
 
 ---
 <h3>Juday shares my vision</h3>
