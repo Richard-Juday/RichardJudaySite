@@ -5,6 +5,7 @@ tags:
 - city-council
 categories:
 - longmont
+draft: true
 
 ---
 <p class="MsoNormal"><font face="Arial" color="navy" size="4"><span style="font-size: 14pt; color: navy; font-family: Arial">Dear  Richard,<o:p></o:p></span></font></p>
