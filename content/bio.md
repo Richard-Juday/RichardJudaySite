@@ -17,7 +17,7 @@ showPagination: false
 
 ### Recent Accomplishments:
 
-* Technical advisor in optics and signal theory, to Optalysys, a small company headquartered in Yorkshire, England.  [Visit their website](http://www.optalysys.com/) to see their activity in genome sequencing, computational fluid dynamics, and optical implementation of computations for weather forecasting.
+* Technical advisor in optics and signal theory, to Optalysys, a small company headquartered in Yorkshire, England.  [Visit their website](http://www.optalysys.com/) to see their activity in genome sequencing, computational fluid dynamics, and optical implementation of computations for weather forecasting. I am a little hard to find, but there I am, at the bottom of the [staff page](http://www.optalysys.com/about/team/).
 * Member of the 2006-2008 Economic Vitality Task Force for Longmont. Authored, along with Tom McCoy, Sarah Levison and Rich Hansen, the report’s Exhibit 1 which emphasizes that growth should be governed and managed within the margins between current consumption and eventual capacity.
 
 * Serving a two-year appointment to the Boulder County committee that distributes Scientific and Cultural Facilities District (SCFD) funds with emphasis on directing tax-supported funds towards deserving projects and fair Longmont  representation.
